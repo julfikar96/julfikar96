@@ -1,52 +1,56 @@
 <div align="center">Julfikar Islam
 
-Student · Software Development · AI & Web Technology
+Student · Software Developer · AI & Web Enthusiast
 
-Building things, learning how they work, and improving one project at a time.
+I build things, experiment with ideas, and learn by doing.
 
-"GitHub" (https://github.com/julfikar96) · "LinkedIn" (https://www.linkedin.com/in/julfikar-islam-447228421/) · "Email" (mailto:itsajib53@gmail.com)
-
-</div>---
+<br><a href="https://github.com/julfikar96">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/julfikar-islam-447228421/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:itsajib53@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a></div>---
 
 About
 
-I'm a student and aspiring software developer from Bangladesh, interested in AI, web development, programming, and technology.
+I'm a student from Bangladesh interested in software development, AI, and the web.
 
-I enjoy turning ideas into working projects and learning through hands-on experimentation. Currently, I'm focused on strengthening my programming fundamentals and exploring modern web and AI technologies.
+Most of what I learn comes from building projects. I like taking an idea, figuring out how to make it work, and improving it along the way.
 
-- 🔭 Exploring AI and modern web development
-- 🌱 Learning React, TypeScript, JavaScript and Python
-- 🤖 Interested in AI assistants and automation
-- 🔌 Exploring Arduino and IoT
-- 🧠 Learning by building real projects
+Right now, I'm mainly exploring React, TypeScript, JavaScript, Python, and AI-powered applications. I also enjoy working with Arduino and small hardware projects when I want to build something outside the screen.
 
 ---
 
-Tech Stack
+What I Work With
 
 Languages
 
-"HTML" "CSS" "JavaScript" "TypeScript" "Python" "C++"
+"JavaScript" "TypeScript" "Python" "C++" "HTML" "CSS"
 
-Web
+Web Development
 
 "React" "Vite" "Tailwind CSS" "Node.js"
 
-AI & Hardware
+AI & Tools
 
-"Google Gemini" "Arduino" "IoT"
+"Google Gemini" "Git" "GitHub"
 
-Tools
+Hardware
 
-"Git" "GitHub"
+"Arduino" "Sensors" "LCD" "IoT"
 
 ---
 
-Selected Projects
+Projects
 
-AI Assistant
+Personal AI Assistant
 
-A personal AI assistant project exploring natural conversation, voice interaction and modern AI-powered interfaces.
+An experimental AI assistant focused on making conversations with AI feel more natural and interactive.
+
+I've been exploring voice interaction, AI APIs, real-time responses, and frontend interfaces while building it.
 
 React · TypeScript · AI · Web Audio
 
@@ -54,52 +58,56 @@ React · TypeScript · AI · Web Audio
 
 Online Teacher
 
-A web-based learning project focused on creating a simple and accessible online teaching experience.
+A web project built around the idea of making online learning simpler and more accessible.
 
 TypeScript · Web Development
 
 ---
 
-Arduino Projects
+Arduino & Electronics
 
-A collection of experiments involving sensors, displays, electronics and automation.
+Hands-on projects with Arduino, sensors, displays, and simple automation.
+
+These projects help me understand the connection between software, electronics, and real-world systems.
 
 Arduino · C++ · Sensors · LCD
 
 ---
 
-Currently Learning
+What I'm Learning
 
-- Modern JavaScript & TypeScript
-- React and frontend development
+I'm currently spending most of my time improving:
+
+- JavaScript & TypeScript
+- React and modern frontend development
 - AI & Generative AI
 - Python
 - Backend fundamentals
+- Git & open-source workflows
 - Arduino & IoT
 
 ---
 
-Philosophy
+A Little More About How I Work
 
-«Learn. Build. Understand. Improve.»
+I prefer learning through projects rather than only following tutorials.
 
-I don't try to know everything.
-I focus on learning something useful, building with it, and understanding what I can do better next time.
+When something doesn't work, I usually try to understand why before looking for the solution. That process has probably taught me more than the projects themselves.
+
+I'm still learning, and that's the part I enjoy.
 
 ---
 
 Connect
 
-<p align="left"><a href="https://github.com/julfikar96">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a><a href="https://www.linkedin.com/in/julfikar-islam-447228421/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><a href="mailto:itsajib53@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a></p>Discord: "julfikar_islam_96"
+<a href="https://github.com/julfikar96">GitHub</a> ·
+<a href="https://www.linkedin.com/in/julfikar-islam-447228421/">LinkedIn</a> ·
+<a href="mailto:itsajib53@gmail.com">Email</a>
+
+Discord: "julfikar_islam_96"
 
 ---
 
-<div align="center">Still learning. Still building.
+<div align="center">Learning by building.
 
 </div>
